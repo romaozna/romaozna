@@ -9,6 +9,8 @@
 </div>
 
 
+
+
 <p align="center">
 I am a backend developer. 🧠
 </p>
@@ -16,7 +18,7 @@ I am a backend developer. 🧠
 On my GitHub, you will find various projects.
 <p align="center">
 Thank you for visiting my profile. 🎉
-</p>
+
  
 ## **My profile stats here:**
 
@@ -24,7 +26,7 @@ Thank you for visiting my profile. 🎉
   <a href="https://github.com/romaozna">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romaozna&theme=slateorange" />
   </a>
-  </div>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaozna&langs_count=8&theme=great-gatsby" alt="Language stats.">
@@ -76,6 +78,14 @@ Thank you for visiting my profile. 🎉
   <p align="center">
   <a href="https://github.com/romaozna?tab=repositories">
     <img src="https://skillicons.dev/icons?i=git,idea,gitlab,bash,docker,gradle,maven,grafana,hibernate,linux,md,mysql,postman,rabbitmq,postgres" /> 
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/romaozna?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=romazona&color=green" /> 
   </a>
 </p>
 </div>
