@@ -77,7 +77,7 @@ Thank you for visiting my profile. 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/romaozna?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,idea,gitlab,bash,docker,gradle,maven,grafana,hibernate,linux,postman,activemq,postgres" /> 
+    <img src="https://skillicons.dev/icons?i=git,idea,gitlab,bash,docker,gradle,maven,grafana,hibernate,linux,postman,postgres" /> 
   </a>
 </p>
 </div>
