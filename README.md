@@ -61,7 +61,7 @@ Thank you for visiting my profile. 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/romaozna?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,vue" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go" />
   </a>
 </p>
 </div>
@@ -77,7 +77,7 @@ Thank you for visiting my profile. 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/romaozna?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,idea,gitlab,bash,docker,gradle,maven,grafana,hibernate,linux,md,mysql,postman,rabbitmq,postgres" /> 
+    <img src="https://skillicons.dev/icons?i=git,idea,gitlab,bash,docker,gradle,maven,grafana,hibernate,linux,postman,activemq,postgres" /> 
   </a>
 </p>
 </div>
